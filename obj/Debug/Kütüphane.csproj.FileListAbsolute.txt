@@ -1,0 +1,14 @@
+C:\Users\Berzan\Desktop\CSharpFormKutuphaneOtomasyonu\Kütüphane\bin\Debug\Kütüphane.exe.config
+C:\Users\Berzan\Desktop\CSharpFormKutuphaneOtomasyonu\Kütüphane\bin\Debug\Kütüphane.exe
+C:\Users\Berzan\Desktop\CSharpFormKutuphaneOtomasyonu\Kütüphane\bin\Debug\Kütüphane.pdb
+C:\Users\Berzan\Desktop\CSharpFormKutuphaneOtomasyonu\Kütüphane\obj\Debug\Kütüphane.csproj.AssemblyReference.cache
+C:\Users\Berzan\Desktop\CSharpFormKutuphaneOtomasyonu\Kütüphane\obj\Debug\Kütüphane.csproj.SuggestedBindingRedirects.cache
+C:\Users\Berzan\Desktop\CSharpFormKutuphaneOtomasyonu\Kütüphane\obj\Debug\Kütüphane.EmanetListeleDetay.resources
+C:\Users\Berzan\Desktop\CSharpFormKutuphaneOtomasyonu\Kütüphane\obj\Debug\Kütüphane.Form1.resources
+C:\Users\Berzan\Desktop\CSharpFormKutuphaneOtomasyonu\Kütüphane\obj\Debug\Kütüphane.KitapListeleDuzenle.resources
+C:\Users\Berzan\Desktop\CSharpFormKutuphaneOtomasyonu\Kütüphane\obj\Debug\Kütüphane.Properties.Resources.resources
+C:\Users\Berzan\Desktop\CSharpFormKutuphaneOtomasyonu\Kütüphane\obj\Debug\Kütüphane.UyeListeleDuzenle.resources
+C:\Users\Berzan\Desktop\CSharpFormKutuphaneOtomasyonu\Kütüphane\obj\Debug\Kütüphane.csproj.GenerateResource.cache
+C:\Users\Berzan\Desktop\CSharpFormKutuphaneOtomasyonu\Kütüphane\obj\Debug\Kütüphane.csproj.CoreCompileInputs.cache
+C:\Users\Berzan\Desktop\CSharpFormKutuphaneOtomasyonu\Kütüphane\obj\Debug\Kütüphane.exe
+C:\Users\Berzan\Desktop\CSharpFormKutuphaneOtomasyonu\Kütüphane\obj\Debug\Kütüphane.pdb
